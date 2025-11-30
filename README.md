@@ -12,7 +12,7 @@ This project implements a deep learning model for speaker recognition using:
 
 ## 🏗️ Architecture Pipeline
 
-
+```
 Audio file (.wav)
     ↓
 Feature extraction (MFCCs / Spectrogram)
@@ -20,7 +20,7 @@ Feature extraction (MFCCs / Spectrogram)
 Deep Learning Model (CNN or LSTM)
     ↓
 Softmax Layer → predicts speaker ID
-
+```
 
 ## 🔧 Model Architecture
 
